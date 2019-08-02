@@ -27,7 +27,7 @@ cover: "markdown.jpg"
 
 ---
 
-## Headings
+## Headings demo update
 
 # h1 Heading
 
